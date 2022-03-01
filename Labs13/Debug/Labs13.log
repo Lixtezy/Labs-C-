@@ -1,0 +1,4 @@
+﻿  Labs13.cpp
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs13\Student.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs13\Teacher.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+  Labs13.vcxproj -> C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs13\Debug\Labs13.exe

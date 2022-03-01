@@ -1,0 +1,5 @@
+﻿  Labs11.cpp
+  Time.cpp
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs11\Time.cpp(18,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Labs11.vcxproj -> C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs11\Debug\Labs11.exe
