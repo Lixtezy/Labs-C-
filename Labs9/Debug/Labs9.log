@@ -1,0 +1,7 @@
+﻿  Labs9.cpp
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs9\Labs9.cpp(15,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs9\Labs9.cpp(15,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs9\Labs9.cpp(15,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Triangle.cpp
+  Создание кода...
+  Labs9.vcxproj -> C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs9\Debug\Labs9.exe
