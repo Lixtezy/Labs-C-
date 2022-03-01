@@ -1,0 +1,3 @@
+﻿  Labs6.cpp
+C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs6\Labs6.cpp(35,17): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Labs6.vcxproj -> C:\Users\pro50\OneDrive\Рабочий стол\Программирование\C++\Labs6\Debug\Labs6.exe
